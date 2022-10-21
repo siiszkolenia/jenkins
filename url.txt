@@ -1,0 +1,37 @@
+Windows Terminal
+---
+https://aka.ms/terminal
+https://learn.microsoft.com/en-us/windows/terminal/install
+
+WSL
+---
+https://aka.ms/wsl
+
+WSL2
+---
+https://aka.ms/wsl2kernel
+https://wslstorestorage.blob.core.windows.net/wslblob/wsl_update_x64.msi
+
+Service manager
+---
+(wsl)
+dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart
+
+(wsl2)
+dism.exe /online /enable-feature /featurename:VirtualMachinePlatform /all /norestart
+
+Visual Studio Code
+---
+https://code.visualstudio.com/insiders/
+
+
+Docker Demon
+---
+https://docs.docker.com/
+https://docs.docker.com/desktop/networking/#use-cases-and-workarounds
+https://www.jenkins.io/doc/book/installing/docker/
+
+Docker REST API
+---
+http://localhost:2375/version
+tcp://host.docker.internal:2375
