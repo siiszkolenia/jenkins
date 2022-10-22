@@ -1,0 +1,6 @@
+user: ssiszkolenia
+pass: 2024siis11
+
+
+
+token: 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
