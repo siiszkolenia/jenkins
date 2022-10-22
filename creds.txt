@@ -3,6 +3,5 @@ pass: 2024siis11
 
 
 
-token: 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
-
-git config --global url."https://siiszkolenia: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@github".insteadOf https://github.com
+token: 
+git config --global url."https://siiszkolenia:@github.com".insteadOf https://github.com
